@@ -61,7 +61,7 @@ def get_prob_from_generation(generation):
 # use the prompt to create a generation
 probs = []
 prob_to_explanation = {}
-for i in range(5):
+for i in range(1):
 
     def generate():
         generation = co.generate(model='xlarge',
