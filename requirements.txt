@@ -1,2 +1,2 @@
 
-cohere==2.0.0g
+cohere==2.0.0
