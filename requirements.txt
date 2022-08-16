@@ -1,4 +1,2 @@
-cohere
-pandas
-numpy
-streamlit
+
+cohere==2.0.0g
