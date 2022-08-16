@@ -32,6 +32,16 @@ Context: We haven’t really heard anything new from the rock band Nickelback fo
 Explanation: Nickelback is working on a new album, but it might not be ready by the end of 2022
 Answer: 0.5
 
+Question: Will Donald Trump run for presidency in 2024
+Context: Donald Trump “has to” announce a campaign for the Republican presidential nomination in 2024 in the next two weeks, a senior Trumpworld source said, if the former president wants to head off being indicted under the Espionage Act after the FBI search at Mar-a-Lago last week.
+Explanation: Donald Trump is likely to run again to avoid being indicted
+Answer: 0.8
+
+Question: Will Jennifer Aniston find love in 2023
+Context: Who is Jennifer Aniston dating? Jennifer Aniston is currently single, according to our records.
+Explanation: Jennifer Aniston is single, but she's very famous so it would be pretty easy for her to find love.
+Answer: 0.7
+
 Question: Will dinosaurs be back before the year 2100
 Context: There have been a lot of scary creatures that have walked planet Earth ever since its inception. Although the variety of man-eating species has dwindled as humanity has progressed, there was a point in time where merely stepping outside was a fight for life and limb. This was largely thanks to dinosaurs, the massive reptilian creatures that ruled the planet for millions of years before humans took the reins.
 Explanation: It's possible to engineer dinosaurs, but it's very difficult
